@@ -1,0 +1,31 @@
+TRAINING DAY ONE (9/3/2026)
+
+data types
+typecasting
+function
+
+Q. Can a func return multiple output at a time ?
+ANS: Bas python
+
+data structure :
+ways of organizing data on your computer
+algo :
+step by step instructions of any prgm
+types of data structures :
+    { slide }
+4. Types of ds in python : with size
+             without size (list)
+
+INTERVIEW QUE
+time kam lgna chahiye space zyada lage toh chalta
+time & space complexity
+
+big o notation : efficiency ko express karnne keliye use hoti hai
+BIG(O),BIG OMEGA, BIG THETA
+ 5 RULES
+O(1) , 0(n),O(n^2),O(log n) {divide by 2}
+
+INTERVIEW QUE
+reverse number by 2 pointer approach
+
+recursion me zyada time complexity lagti hai
